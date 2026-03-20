@@ -1,0 +1,4 @@
+Error: SYNCPAY_ERROR:{"message":"O telefone do cliente deve conter entre 10 e 11 d\u00edgitos num\u00e9ricos.","errors":{"client.phone":["O telefone do cliente deve conter entre 10 e 11 d\u00edgitos num\u00e9ricos."]}}
+    at createPixCharge (file:///C:/Users/osmar/Downloads/roleta/backend/services/paymentService.js:81:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async createDeposit (file:///C:/Users/osmar/Downloads/roleta/backend/controllers/paymentController.js:25:20)
